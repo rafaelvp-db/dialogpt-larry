@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+
+  backend:
+    env_file:
+      - .env
+    image: my-model/backend:1.0
+    ports:
+      - 8000:8080
+
+  frontend:
+    image: my-model/frontend:1.0
+    ports:
+      - 8080:80
