@@ -1,6 +1,6 @@
 # Hugging Face GPT Chatbot Example
 
-<div align="center"><img src="https://github.com/databricks/gpt-chatbot-example/blob/master/img/hf.png?raw=true"></div>
+<div align="center"><img src="https://github.com/rafaelvp-db/dialogpt-larry/blob/master/img/hf.png?raw=true"></div>
 
 ## Objective
 
