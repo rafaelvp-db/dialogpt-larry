@@ -66,11 +66,11 @@ Multi-turn generation examples from an interactive environment:
 
 ## Demo
 
-<div align="center"><img src="https://github.com/databricks/gpt-chatbot-example/blob/master/img/demo3.gif?raw=true"></div>
+<div align="center"><img src="https://github.com/rafaelvp-db/dialogpt-larry/blob/master/img/demo3.gif?raw=true"></div>
 
 ## TODO
 
-See the [issues](https://github.com/databricks/gpt-chatbot-example/issues) section
+See the [issues](https://github.com/rafaelvp-db/dialogpt-larry/issues) section
 
 ## Credits
 
